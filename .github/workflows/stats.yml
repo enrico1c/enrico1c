@@ -39,4 +39,3 @@ jobs:
           git add -- $FILES
           git commit -m "stats: refresh profile graphics"
           git push
-# ensure indexed
