@@ -72,3 +72,4 @@ default monospace is narrower would otherwise see it squeezed.
 
 Language totals cover public repositories only. `year.svg` uses the portrait's<br>
 character ramp: `:` `+` `#` `@`, quiet to loud.
+
