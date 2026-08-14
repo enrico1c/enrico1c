@@ -86,7 +86,7 @@ Code skills plus their GitHub repos.
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="20%">
+      <td align="center" valign="top" width="20%">
         <a href="https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/YD2kY95RQxQtXxFTS_Sj7temL583QAYpHXD_6a43bcc26cb5fcd70659e9cf_1782834819378_completion_certificate.pdf">
           <img src="./badges/forage.png" width="48" alt="Forage"/>
         </a><br/>
@@ -94,7 +94,7 @@ Code skills plus their GitHub repos.
         🗓️ Jun 2026<br/>
         <sub>Change Management, Client Communication +6</sub>
       </td>
-      <td align="center" width="20%">
+      <td align="center" valign="top" width="20%">
         <a href="https://www.credly.com/badges/98d195ce-5e9a-4b22-bcc0-76e75f1be299/public_url">
           <img src="./badges/ibm.png" width="48" alt="IBM"/>
         </a><br/>
@@ -102,7 +102,7 @@ Code skills plus their GitHub repos.
         🗓️ Jun 2026<br/>
         <sub>AI, Machine Learning +11</sub>
       </td>
-      <td align="center" width="20%">
+      <td align="center" valign="top" width="20%">
         <a href="https://www.credly.com/badges/71e10ae2-985a-4ec3-a442-1a0a09e0d7d7/public_url">
           <img src="./badges/ibm.png" width="48" alt="IBM"/>
         </a><br/>
@@ -110,7 +110,7 @@ Code skills plus their GitHub repos.
         🗓️ Jun 2026<br/>
         <sub>Machine Learning, Deep Learning +4</sub>
       </td>
-      <td align="center" width="20%">
+      <td align="center" valign="top" width="20%">
         <a href="https://verify.skilljar.com/c/ox2hixmboaoh">
           <img src="./badges/anthropic.png" width="48" alt="Anthropic"/>
         </a><br/>
@@ -118,7 +118,7 @@ Code skills plus their GitHub repos.
         🗓️ Jun 2026<br/>
         <sub>Generative AI, AI +3</sub>
       </td>
-      <td align="center" width="20%">
+      <td align="center" valign="top" width="20%">
         <a href="https://verify.skilljar.com/c/oc94uitkc923">
           <img src="./badges/anthropic.png" width="48" alt="Anthropic"/>
         </a><br/>
@@ -128,7 +128,7 @@ Code skills plus their GitHub repos.
       </td>
     </tr>
     <tr>
-      <td align="center" width="20%">
+      <td align="center" valign="top" width="20%">
         <a href="https://portal.bloombergforeducation.com/certificates/4c3BpQ2e2yZNrsYU7deme716">
           <img src="./badges/bloomberg.png" width="48" alt="Bloomberg"/>
         </a><br/>
@@ -136,7 +136,7 @@ Code skills plus their GitHub repos.
         🗓️ Apr 2026<br/>
         <sub>ESG</sub>
       </td>
-      <td align="center" width="20%">
+      <td align="center" valign="top" width="20%">
         <a href="https://portal.bloombergforeducation.com/certificates/i4aiXkM7phJSQEEZGDy644A6">
           <img src="./badges/bloomberg.png" width="48" alt="Bloomberg"/>
         </a><br/>
@@ -144,7 +144,7 @@ Code skills plus their GitHub repos.
         🗓️ Mar 2026<br/>
         <sub>BQL, Equity Screening +3</sub>
       </td>
-      <td align="center" width="20%">
+      <td align="center" valign="top" width="20%">
         <a href="https://www.credly.com/badges/39be5d4d-a83c-4d03-90ea-a4b82b4df9ee/public_url">
           <img src="./badges/ibm.png" width="48" alt="IBM"/>
         </a><br/>
@@ -152,7 +152,7 @@ Code skills plus their GitHub repos.
         🗓️ Mar 2026<br/>
         <sub>AI Ethics, Analytical Skills +3</sub>
       </td>
-      <td align="center" width="20%">
+      <td align="center" valign="top" width="20%">
         <a href="https://portal.bloombergforeducation.com/certificates/QWsvKpLxxZ1xisGF9EcycSmM">
           <img src="./badges/bloomberg.png" width="48" alt="Bloomberg"/>
         </a><br/>
@@ -160,7 +160,7 @@ Code skills plus their GitHub repos.
         🗓️ Mar 2026<br/>
         <sub>Risk Management, Risk Assessment +1</sub>
       </td>
-      <td align="center" width="20%">
+      <td align="center" valign="top" width="20%">
         <a href="https://portal.bloombergforeducation.com/certificates/TWkHmjjDZF3kh35T4aEfmiTK">
           <img src="./badges/bloomberg.png" width="48" alt="Bloomberg"/>
         </a><br/>
