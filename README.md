@@ -7,6 +7,8 @@ Rome, Italy
 [![Email](https://img.shields.io/badge/Email-enricomanzo2%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:enricomanzo2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Enrico%20Manzo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrico-manzo-627888354/)
 
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrico-manzo-627888354/)
+
 </div>
 
 Economics & Management graduate (LUISS), now reading a Master in Finance at
@@ -81,19 +83,84 @@ Code skills plus their GitHub repos.
 
 <img src="./hd-certifications.svg" width="620" alt="certifications"/>
 
-**Bloomberg**<br>
-Bloomberg Market Concepts (BMC) · Bloomberg Finance Fundamentals ·
-Bloomberg Spreadsheet Analysis · Environmental Social Governance (ESG)
-
-**IBM**<br>
-Artificial Intelligence Fundamentals · Building AI Solutions Using Advanced
-Algorithms and Open Source Frameworks · Getting Started with Generative AI
-
-**Anthropic**<br>
-AI Fluency for Small Businesses · Building with the Claude API
-
-**Forage**<br>
-JPMorganChase — Investment Banking Job Simulation
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <a href="https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/YD2kY95RQxQtXxFTS_Sj7temL583QAYpHXD_6a43bcc26cb5fcd70659e9cf_1782834819378_completion_certificate.pdf">
+          <img src="https://img.shields.io/badge/Forage-JPMorganChase_IB_Sim-00A19A?style=flat-square" alt="JPMorganChase Investment Banking Job Simulation"/>
+        </a><br/>
+        🗓️ Jun 2026<br/>
+        <sub>Change Management, Client Communication +6</sub>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://www.credly.com/badges/98d195ce-5e9a-4b22-bcc0-76e75f1be299/public_url">
+          <img src="https://img.shields.io/badge/IBM-AI_Fundamentals-0F62FE?style=flat-square" alt="IBM Artificial Intelligence Fundamentals"/>
+        </a><br/>
+        🗓️ Jun 2026<br/>
+        <sub>AI, Machine Learning +11</sub>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://www.credly.com/badges/71e10ae2-985a-4ec3-a442-1a0a09e0d7d7/public_url">
+          <img src="https://img.shields.io/badge/IBM-Building_AI_Solutions-0F62FE?style=flat-square" alt="IBM Building AI Solutions Using Advanced Algorithms and Open Source Frameworks"/>
+        </a><br/>
+        🗓️ Jun 2026<br/>
+        <sub>Machine Learning, Deep Learning +4</sub>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://verify.skilljar.com/c/ox2hixmboaoh">
+          <img src="https://img.shields.io/badge/Anthropic-AI_Fluency-D97757?style=flat-square" alt="AI Fluency for Small Businesses"/>
+        </a><br/>
+        🗓️ Jun 2026<br/>
+        <sub>Generative AI, AI +3</sub>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://verify.skilljar.com/c/oc94uitkc923">
+          <img src="https://img.shields.io/badge/Anthropic-Claude_API-D97757?style=flat-square" alt="Building with the Claude API"/>
+        </a><br/>
+        🗓️ Jun 2026<br/>
+        <sub>Claude, APIs +1</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="20%">
+        <a href="https://portal.bloombergforeducation.com/certificates/4c3BpQ2e2yZNrsYU7deme716">
+          <img src="https://img.shields.io/badge/Bloomberg-ESG-000000?style=flat-square" alt="Environmental Social Governance"/>
+        </a><br/>
+        🗓️ Apr 2026<br/>
+        <sub>ESG</sub>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://portal.bloombergforeducation.com/certificates/i4aiXkM7phJSQEEZGDy644A6">
+          <img src="https://img.shields.io/badge/Bloomberg-Spreadsheet_Analysis-000000?style=flat-square" alt="Bloomberg Spreadsheet Analysis"/>
+        </a><br/>
+        🗓️ Mar 2026<br/>
+        <sub>BQL, Equity Screening +3</sub>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://www.credly.com/badges/39be5d4d-a83c-4d03-90ea-a4b82b4df9ee/public_url">
+          <img src="https://img.shields.io/badge/IBM-Generative_AI-0F62FE?style=flat-square" alt="Getting Started with Generative AI"/>
+        </a><br/>
+        🗓️ Mar 2026<br/>
+        <sub>AI Ethics, Analytical Skills +3</sub>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://portal.bloombergforeducation.com/certificates/QWsvKpLxxZ1xisGF9EcycSmM">
+          <img src="https://img.shields.io/badge/Bloomberg-Finance_Fundamentals-000000?style=flat-square" alt="Bloomberg Finance Fundamentals"/>
+        </a><br/>
+        🗓️ Mar 2026<br/>
+        <sub>Risk Management, Risk Assessment +1</sub>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://portal.bloombergforeducation.com/certificates/TWkHmjjDZF3kh35T4aEfmiTK">
+          <img src="https://img.shields.io/badge/Bloomberg-Market_Concepts-000000?style=flat-square" alt="Bloomberg Market Concepts"/>
+        </a><br/>
+        🗓️ Feb 2026<br/>
+        <sub>Market Analysis, Financial Analysis</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 **AmplifyME**<br>
 Finance Accelerator
