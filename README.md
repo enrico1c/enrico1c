@@ -163,7 +163,7 @@ Finance Accelerator
 ![Risk](https://img.shields.io/badge/-Risk-444444?style=flat-square)
 
 **Programming**<br>
-<table border="1" cellpadding="10" cellspacing="0">
+<table cellpadding="10" cellspacing="0">
   <tr>
     <td align="center"><img src="https://cdn.simpleicons.org/python" width="36" alt="Python"/><br>Python</td>
     <td align="center"><img src="https://cdn.simpleicons.org/r" width="36" alt="R"/><br>R</td>
