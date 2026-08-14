@@ -83,87 +83,101 @@ Code skills plus their GitHub repos.
 
 <img src="./hd-certifications.svg" width="620" alt="certifications"/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="20%">
-        <a href="https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/YD2kY95RQxQtXxFTS_Sj7temL583QAYpHXD_6a43bcc26cb5fcd70659e9cf_1782834819378_completion_certificate.pdf">
-          <img src="./badges/forage-jpmorgan-ibsim.jpg" width="100%" alt="Forage: JPMorganChase Investment Banking Job Simulation"/>
-        </a><br/>
-        🗓️ Jun 2026<br/>
-        <sub>Change Management, Client Communication +6</sub>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://www.credly.com/badges/98d195ce-5e9a-4b22-bcc0-76e75f1be299/public_url">
-          <img src="./badges/ibm-ai-fundamentals.jpg" width="100%" alt="IBM: Artificial Intelligence Fundamentals"/>
-        </a><br/>
-        🗓️ Jun 2026<br/>
-        <sub>AI, Machine Learning +11</sub>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://www.credly.com/badges/71e10ae2-985a-4ec3-a442-1a0a09e0d7d7/public_url">
-          <img src="./badges/ibm-building-ai-solutions.jpg" width="100%" alt="IBM: Building AI Solutions Using Advanced Algorithms and Open Source Frameworks"/>
-        </a><br/>
-        🗓️ Jun 2026<br/>
-        <sub>Machine Learning, Deep Learning +4</sub>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://verify.skilljar.com/c/ox2hixmboaoh">
-          <img src="./badges/anthropic-ai-fluency.jpg" width="100%" alt="Anthropic: AI Fluency for Small Businesses"/>
-        </a><br/>
-        🗓️ Jun 2026<br/>
-        <sub>Generative AI, AI +3</sub>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://verify.skilljar.com/c/oc94uitkc923">
-          <img src="./badges/anthropic-claude-api.jpg" width="100%" alt="Anthropic: Building with the Claude API"/>
-        </a><br/>
-        🗓️ Jun 2026<br/>
-        <sub>Claude, APIs +1</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="20%">
-        <a href="https://portal.bloombergforeducation.com/certificates/4c3BpQ2e2yZNrsYU7deme716">
-          <img src="./badges/bloomberg-esg.jpg" width="100%" alt="Bloomberg: Environmental Social Governance"/>
-        </a><br/>
-        🗓️ Apr 2026<br/>
-        <sub>ESG</sub>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://portal.bloombergforeducation.com/certificates/i4aiXkM7phJSQEEZGDy644A6">
-          <img src="./badges/bloomberg-spreadsheet-analysis.jpg" width="100%" alt="Bloomberg: Spreadsheet Analysis"/>
-        </a><br/>
-        🗓️ Mar 2026<br/>
-        <sub>BQL, Equity Screening +3</sub>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://www.credly.com/badges/39be5d4d-a83c-4d03-90ea-a4b82b4df9ee/public_url">
-          <img src="./badges/ibm-generative-ai.jpg" width="100%" alt="IBM: Getting Started with Generative AI"/>
-        </a><br/>
-        🗓️ Mar 2026<br/>
-        <sub>AI Ethics, Analytical Skills +3</sub>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://portal.bloombergforeducation.com/certificates/QWsvKpLxxZ1xisGF9EcycSmM">
-          <img src="./badges/bloomberg-finance-fundamentals.jpg" width="100%" alt="Bloomberg: Finance Fundamentals"/>
-        </a><br/>
-        🗓️ Mar 2026<br/>
-        <sub>Risk Management, Risk Assessment +1</sub>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://portal.bloombergforeducation.com/certificates/TWkHmjjDZF3kh35T4aEfmiTK">
-          <img src="./badges/bloomberg-market-concepts.jpg" width="100%" alt="Bloomberg: Market Concepts"/>
-        </a><br/>
-        🗓️ Feb 2026<br/>
-        <sub>Market Analysis, Financial Analysis</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-**AmplifyME**<br>
-Finance Accelerator
+<table>
+  <tr>
+    <td valign="top" width="56"><img src="./badges/forage.png" width="48" alt="Forage"/></td>
+    <td valign="top">
+      <strong><a href="https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/YD2kY95RQxQtXxFTS_Sj7temL583QAYpHXD_6a43bcc26cb5fcd70659e9cf_1782834819378_completion_certificate.pdf">JPMorganChase — Investment Banking Job Simulation</a></strong><br>
+      Forage · <samp>Jun 2026</samp><br>
+      Credential ID 94DiNFwMetf5Se28D<br>
+      <sub>Skills: Change Management, Client Communication +6</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="56"><img src="./badges/ibm.png" width="48" alt="IBM"/></td>
+    <td valign="top">
+      <strong><a href="https://www.credly.com/badges/98d195ce-5e9a-4b22-bcc0-76e75f1be299/public_url">Artificial Intelligence Fundamentals</a></strong><br>
+      IBM · <samp>Jun 2026</samp><br>
+      <sub>Skills: AI, Machine Learning +11</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="56"><img src="./badges/ibm.png" width="48" alt="IBM"/></td>
+    <td valign="top">
+      <strong><a href="https://www.credly.com/badges/71e10ae2-985a-4ec3-a442-1a0a09e0d7d7/public_url">Building AI Solutions Using Advanced Algorithms and Open Source Frameworks</a></strong><br>
+      IBM · <samp>Jun 2026</samp><br>
+      <sub>Skills: Machine Learning, Deep Learning +4</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="56"><img src="./badges/anthropic.png" width="48" alt="Anthropic"/></td>
+    <td valign="top">
+      <strong><a href="https://verify.skilljar.com/c/ox2hixmboaoh">AI Fluency for Small Businesses</a></strong><br>
+      Anthropic · <samp>Jun 2026</samp><br>
+      <sub>Skills: Generative AI, AI +3</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="56"><img src="./badges/anthropic.png" width="48" alt="Anthropic"/></td>
+    <td valign="top">
+      <strong><a href="https://verify.skilljar.com/c/oc94uitkc923">Building with the Claude API</a></strong><br>
+      Anthropic · <samp>Jun 2026</samp><br>
+      <sub>Skills: Claude, APIs +1</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="56"><img src="./badges/bloomberg.png" width="48" alt="Bloomberg"/></td>
+    <td valign="top">
+      <strong><a href="https://portal.bloombergforeducation.com/certificates/4c3BpQ2e2yZNrsYU7deme716">Environmental Social Governance</a></strong><br>
+      Bloomberg · <samp>Apr 2026</samp><br>
+      Credential ID 4c3BpQ2e2yZNrsYU7deme716<br>
+      <sub>Skills: ESG</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="56"><img src="./badges/bloomberg.png" width="48" alt="Bloomberg"/></td>
+    <td valign="top">
+      <strong><a href="https://portal.bloombergforeducation.com/certificates/i4aiXkM7phJSQEEZGDy644A6">Bloomberg Spreadsheet Analysis</a></strong><br>
+      Bloomberg · <samp>Mar 2026</samp><br>
+      Credential ID i4aiXkM7phJSQEEZGDy644A6<br>
+      <sub>Skills: BQL, Equity Screening +3</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="56"><img src="./badges/ibm.png" width="48" alt="IBM"/></td>
+    <td valign="top">
+      <strong><a href="https://www.credly.com/badges/39be5d4d-a83c-4d03-90ea-a4b82b4df9ee/public_url">Getting Started with Generative AI</a></strong><br>
+      IBM · <samp>Mar 2026</samp><br>
+      <sub>Skills: AI Ethics, Analytical Skills +3</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="56"><img src="./badges/bloomberg.png" width="48" alt="Bloomberg"/></td>
+    <td valign="top">
+      <strong><a href="https://portal.bloombergforeducation.com/certificates/QWsvKpLxxZ1xisGF9EcycSmM">Bloomberg Finance Fundamentals</a></strong><br>
+      Bloomberg · <samp>Mar 2026</samp><br>
+      Credential ID QWsvKpLxxZ1xisGF9EcycSmM<br>
+      <sub>Skills: Risk Management, Risk Assessment +1</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="56"><img src="./badges/bloomberg.png" width="48" alt="Bloomberg"/></td>
+    <td valign="top">
+      <strong><a href="https://portal.bloombergforeducation.com/certificates/TWkHmjjDZF3kh35T4aEfmiTK">Bloomberg Market Concepts</a></strong><br>
+      Bloomberg · <samp>Feb 2026</samp><br>
+      Credential ID TWkHmjjDZF3kh35T4aEfmiTK<br>
+      <sub>Skills: Market Analysis, Financial Analysis</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="56"><img src="./badges/amplifyme.png" width="48" alt="AmplifyME"/></td>
+    <td valign="top">
+      <strong>Finance Accelerator</strong><br>
+      AmplifyME · <samp>Dec 2025</samp><br>
+      Credential ID 7578ca22-ee69-4737-b5d7-6c7c49726958
+    </td>
+  </tr>
+</table>
 
 <img src="./hd-skills.svg" width="620" alt="skills & languages"/>
 
