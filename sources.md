@@ -15,12 +15,9 @@ strips CSS, so an image is the only way to put this page's own typeface on
 them.
 
 The typeface is [JetBrains Mono](scripts/fonts), subset to just the characters
-each graphic draws and inlined as base64. That isn't only for looks: `year.svg`'s
-grid assumes an advance width of exactly 0.600 em, and a viewer whose default
-monospace is narrower would otherwise see it squeezed.
+each graphic draws and inlined as base64. That isn't only for looks: heading
+widths assume an advance of exactly 0.600 em, and a viewer whose default
+monospace is narrower would otherwise see labels squeezed.
 
 Language totals cover all owned, non-fork repositories, public and private —
-only aggregate counts are shown, never private repo names or code. `year.svg`
-uses a character
-ramp — `:` `+` `#` `@`, quiet to loud — and, once the grid has revealed, a
-short trail of the same characters sweeps across it once, column by column.
+only aggregate counts are shown, never private repo names or code.
