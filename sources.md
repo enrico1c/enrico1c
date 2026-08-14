@@ -19,6 +19,8 @@ each graphic draws and inlined as base64. That isn't only for looks: `year.svg`'
 grid assumes an advance width of exactly 0.600 em, and a viewer whose default
 monospace is narrower would otherwise see it squeezed.
 
-Language totals cover public repositories only. `year.svg` uses a character
+Language totals cover all owned, non-fork repositories, public and private —
+only aggregate counts are shown, never private repo names or code. `year.svg`
+uses a character
 ramp — `:` `+` `#` `@`, quiet to loud — and, once the grid has revealed, a
 short trail of the same characters sweeps across it once, column by column.

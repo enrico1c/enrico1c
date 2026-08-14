@@ -54,6 +54,15 @@ cross-asset aggregation modeled on institutional research frameworks.
 Modular financial dashboard for market monitoring — multi-source data
 integration, structured financial insights, built for real-time usability.
 
+**FINTERM Desktop** &nbsp;·&nbsp; <samp>c++</samp> &nbsp;·&nbsp; <samp>private</samp><br>
+Native Qt6/KDE Frameworks 6 desktop port of the dashboard above — freeform
+draggable canvas, 14 parity widgets plus 5 desktop-only extras (Gold
+Intelligence, National Debt, Earnings Calendar, Liquidity, AI trade cards).<br>
+Systems: C++17 · Qt6 Widgets · KDE Frameworks 6 (KXmlGuiWindow, KWallet) ·
+CMake/Extra CMake Modules · SQLite via Qt6::Sql · Interactive Brokers TWS API
+(Python `ib_insync` bridge) · Groq LLM (`llama-3.3-70b-versatile`) · FRED ·
+Finnhub · EIA · CFTC · ECB SDMX · IMF WEO · Flatpak (`org.kde.Platform` 6.7)
+
 **[algotrading-system](https://github.com/enrico1c/algotrading-system)** &nbsp;·&nbsp; <samp>python</samp><br>
 Modular algorithmic trading system — RSI2, Triple RSI, VECM pairs — running a
 live 150 EUR eToro-compatible portfolio on yfinance data.
