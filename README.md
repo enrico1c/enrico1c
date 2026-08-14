@@ -163,12 +163,16 @@ Finance Accelerator
 ![Risk](https://img.shields.io/badge/-Risk-444444?style=flat-square)
 
 **Programming**<br>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+<table border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/python" width="36" alt="Python"/><br>Python</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/r" width="36" alt="R"/><br>R</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/javascript" width="36" alt="JavaScript"/><br>JavaScript</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/typescript" width="36" alt="TypeScript"/><br>TypeScript</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/html5" width="36" alt="HTML"/><br>HTML</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/css" width="36" alt="CSS"/><br>CSS</td>
+  </tr>
+</table>
 
 **Tools**<br>
 ![Excel](https://img.shields.io/badge/-Excel%20(Advanced)-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
