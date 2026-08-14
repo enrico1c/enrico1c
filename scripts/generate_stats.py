@@ -3,13 +3,13 @@
 
 No third-party services and no dependencies — standard library only.
 
-Outputs, all sharing one visual language with ascii.svg (the portrait):
+Outputs, all sharing one visual language:
   stats.svg   hero total + weekly sparkline
   streak.svg  current and longest streak
   langs.svg   top languages, by bytes and by repo count
-  year.svg    the year as a character map, in the portrait's own ramp
+  year.svg    the year as a character map, with a snake trail sweeping it
 
-Every file uses the portrait's grey ink, a monospace face, a transparent
+Every file uses the same grey ink, a monospace face, a transparent
 background, and the same left-to-right clipPath reveal with a cursor riding
 the edge. Motion is SMIL because GitHub strips <script> from READMEs.
 
@@ -372,6 +372,51 @@ def draw_heading(word):
     return "".join(p)
 
 
+def snake_trail(weeks, pad_l, pad_t, colw, cw, lh, fs, start_delay):
+    """A short trail of ramp glyphs sweeping the grid column by column,
+    top-to-bottom then bottom-to-top, after the grid itself has revealed.
+
+    Coordinates are sampled every SAMPLE-th cell rather than every cell: with
+    no <script>, a moving element needs its whole path spelled out as a SMIL
+    `values` list, and one entry per grid cell (~370) times two attributes
+    (x, y) times several trailing segments gets into the tens of KB. Sampling
+    keeps year.svg a few KB heavier, not several times its size, while still
+    reading clearly as a sweep across the year.
+    """
+    path = []
+    for i in range(len(weeks)):
+        rows = range(7) if i % 2 == 0 else range(6, -1, -1)
+        for r in rows:
+            path.append((pad_l + i * colw * cw, pad_t + r * lh + fs - 0.6))
+    path = path[::3]
+    if len(path) < 6:
+        return ""
+
+    dur = 2.6
+    step = dur / (len(path) - 1)
+    xs = ";".join(f"{x:.1f}" for x, _ in path)
+    ys = ";".join(f"{y:.1f}" for _, y in path)
+
+    p = []
+    for k, ch in enumerate(("@", "@", "#", "+", ":")):  # head to tail
+        cls = "e-f" if k == 0 else "d-f"
+        opacity = 1.0 if k == 0 else max(0.15, 0.75 - k * 0.18)
+        begin = start_delay + k * step
+        p.append(f'<text x="{path[0][0]:.1f}" y="{path[0][1]:.1f}" '
+                 f'class="{cls}" font-size="{fs}" opacity="0">{ch}'
+                 f'<animate attributeName="x" values="{xs}" '
+                 f'calcMode="discrete" begin="{begin:.2f}s" dur="{dur}s" '
+                 f'fill="freeze"/>'
+                 f'<animate attributeName="y" values="{ys}" '
+                 f'calcMode="discrete" begin="{begin:.2f}s" dur="{dur}s" '
+                 f'fill="freeze"/>'
+                 f'<set attributeName="opacity" to="{opacity:.2f}" '
+                 f'begin="{begin:.2f}s"/>'
+                 f'<set attributeName="opacity" to="0" '
+                 f'begin="{begin + dur:.2f}s" fill="freeze"/></text>')
+    return "".join(p)
+
+
 def draw_year(s):
     """Seven rows by fifty-three weeks, intensity as a character."""
     FS, LH, COLW = 9.2, 11.0, 2
@@ -439,6 +484,8 @@ def draw_year(s):
             last_x = x
         last_m = m
 
+    p.append(snake_trail(weeks, pad_l, pad_t, COLW, CW, LH, FS,
+                          0.30 + 7 * 0.07 + 0.40))
     p.append("</svg>")
     return "".join(p)
 
@@ -467,7 +514,8 @@ def main():
     s = summarise(fetch(login, token))
     files = {"stats.svg": draw_stats(s), "streak.svg": draw_streak(s),
              "langs.svg": draw_langs(s), "year.svg": draw_year(s)}
-    for word in ("about", "stack", "projects", "stats", "about this page"):
+    for word in ("education", "experience", "projects", "certifications",
+                 "skills", "stats", "about this page"):
         files[f"hd-{word.replace(' ', '-')}.svg"] = draw_heading(word)
 
     changed = [n for n, svg in files.items()
