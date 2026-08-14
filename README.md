@@ -88,36 +88,41 @@ Code skills plus their GitHub repos.
     <tr>
       <td align="center" width="20%">
         <a href="https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/YD2kY95RQxQtXxFTS_Sj7temL583QAYpHXD_6a43bcc26cb5fcd70659e9cf_1782834819378_completion_certificate.pdf">
-          <img src="https://img.shields.io/badge/Forage-JPMorganChase_IB_Sim-00A19A?style=flat-square" alt="JPMorganChase Investment Banking Job Simulation"/>
+          <img src="./badges/forage.png" width="48" alt="Forage"/>
         </a><br/>
+        <strong>JPMorganChase — IB Job Simulation</strong><br/>
         🗓️ Jun 2026<br/>
         <sub>Change Management, Client Communication +6</sub>
       </td>
       <td align="center" width="20%">
         <a href="https://www.credly.com/badges/98d195ce-5e9a-4b22-bcc0-76e75f1be299/public_url">
-          <img src="https://img.shields.io/badge/IBM-AI_Fundamentals-0F62FE?style=flat-square" alt="IBM Artificial Intelligence Fundamentals"/>
+          <img src="./badges/ibm.png" width="48" alt="IBM"/>
         </a><br/>
+        <strong>AI Fundamentals</strong><br/>
         🗓️ Jun 2026<br/>
         <sub>AI, Machine Learning +11</sub>
       </td>
       <td align="center" width="20%">
         <a href="https://www.credly.com/badges/71e10ae2-985a-4ec3-a442-1a0a09e0d7d7/public_url">
-          <img src="https://img.shields.io/badge/IBM-Building_AI_Solutions-0F62FE?style=flat-square" alt="IBM Building AI Solutions Using Advanced Algorithms and Open Source Frameworks"/>
+          <img src="./badges/ibm.png" width="48" alt="IBM"/>
         </a><br/>
+        <strong>Building AI Solutions</strong><br/>
         🗓️ Jun 2026<br/>
         <sub>Machine Learning, Deep Learning +4</sub>
       </td>
       <td align="center" width="20%">
         <a href="https://verify.skilljar.com/c/ox2hixmboaoh">
-          <img src="https://img.shields.io/badge/Anthropic-AI_Fluency-D97757?style=flat-square" alt="AI Fluency for Small Businesses"/>
+          <img src="./badges/anthropic.png" width="48" alt="Anthropic"/>
         </a><br/>
+        <strong>AI Fluency for Small Businesses</strong><br/>
         🗓️ Jun 2026<br/>
         <sub>Generative AI, AI +3</sub>
       </td>
       <td align="center" width="20%">
         <a href="https://verify.skilljar.com/c/oc94uitkc923">
-          <img src="https://img.shields.io/badge/Anthropic-Claude_API-D97757?style=flat-square" alt="Building with the Claude API"/>
+          <img src="./badges/anthropic.png" width="48" alt="Anthropic"/>
         </a><br/>
+        <strong>Building with the Claude API</strong><br/>
         🗓️ Jun 2026<br/>
         <sub>Claude, APIs +1</sub>
       </td>
@@ -125,36 +130,41 @@ Code skills plus their GitHub repos.
     <tr>
       <td align="center" width="20%">
         <a href="https://portal.bloombergforeducation.com/certificates/4c3BpQ2e2yZNrsYU7deme716">
-          <img src="https://img.shields.io/badge/Bloomberg-ESG-000000?style=flat-square" alt="Environmental Social Governance"/>
+          <img src="./badges/bloomberg.png" width="48" alt="Bloomberg"/>
         </a><br/>
+        <strong>Environmental Social Governance</strong><br/>
         🗓️ Apr 2026<br/>
         <sub>ESG</sub>
       </td>
       <td align="center" width="20%">
         <a href="https://portal.bloombergforeducation.com/certificates/i4aiXkM7phJSQEEZGDy644A6">
-          <img src="https://img.shields.io/badge/Bloomberg-Spreadsheet_Analysis-000000?style=flat-square" alt="Bloomberg Spreadsheet Analysis"/>
+          <img src="./badges/bloomberg.png" width="48" alt="Bloomberg"/>
         </a><br/>
+        <strong>Spreadsheet Analysis</strong><br/>
         🗓️ Mar 2026<br/>
         <sub>BQL, Equity Screening +3</sub>
       </td>
       <td align="center" width="20%">
         <a href="https://www.credly.com/badges/39be5d4d-a83c-4d03-90ea-a4b82b4df9ee/public_url">
-          <img src="https://img.shields.io/badge/IBM-Generative_AI-0F62FE?style=flat-square" alt="Getting Started with Generative AI"/>
+          <img src="./badges/ibm.png" width="48" alt="IBM"/>
         </a><br/>
+        <strong>Getting Started with Generative AI</strong><br/>
         🗓️ Mar 2026<br/>
         <sub>AI Ethics, Analytical Skills +3</sub>
       </td>
       <td align="center" width="20%">
         <a href="https://portal.bloombergforeducation.com/certificates/QWsvKpLxxZ1xisGF9EcycSmM">
-          <img src="https://img.shields.io/badge/Bloomberg-Finance_Fundamentals-000000?style=flat-square" alt="Bloomberg Finance Fundamentals"/>
+          <img src="./badges/bloomberg.png" width="48" alt="Bloomberg"/>
         </a><br/>
+        <strong>Finance Fundamentals</strong><br/>
         🗓️ Mar 2026<br/>
         <sub>Risk Management, Risk Assessment +1</sub>
       </td>
       <td align="center" width="20%">
         <a href="https://portal.bloombergforeducation.com/certificates/TWkHmjjDZF3kh35T4aEfmiTK">
-          <img src="https://img.shields.io/badge/Bloomberg-Market_Concepts-000000?style=flat-square" alt="Bloomberg Market Concepts"/>
+          <img src="./badges/bloomberg.png" width="48" alt="Bloomberg"/>
         </a><br/>
+        <strong>Market Concepts</strong><br/>
         🗓️ Feb 2026<br/>
         <sub>Market Analysis, Financial Analysis</sub>
       </td>
