@@ -27,23 +27,6 @@ BSc in Economics and Management — <samp>2023 – 2026</samp><br>
 Coursework: Corporate Finance, Financial Markets, Economics. Focus on
 valuation, financial analysis, and market dynamics.
 
-**W.P. Wagner School** — Edmonton, Canada<br>
-High School Diploma — <samp>2022</samp>
-
-**Liceo Scientifico Avogadro** — Rome, Italy<br>
-High School Diploma — <samp>2023</samp>
-
-<img src="./hd-experience.svg" width="620" alt="experience"/>
-
-**Next Holding S.p.A.** — Rome, Italy<br>
-Administrative Intern — <samp>2025</samp>
-
-- Managed accounts receivable & payable cycles, including invoicing and credit recovery
-- Supported treasury and management control, contributing to cost and margin analysis
-- Maintained client & supplier databases via ERP and CRM systems
-- Improved process efficiency and data accuracy within financial workflows
-- Gained exposure to financial operations, reporting, and internal controls
-
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
 **[Cross-Asset Investment Rating Framework](https://github.com/enrico1c/Scoring-system)** &nbsp;·&nbsp; <samp>python</samp><br>
