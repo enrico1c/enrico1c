@@ -7,22 +7,6 @@
 
 </div>
 
-Economics & Management graduate (LUISS), now reading a Master in Finance at
-EMLYON Business School. Background spans financial analysis and internal
-controls — through an administrative internship handling AR/AP, treasury
-support, and ERP/CRM reporting — and self-directed fintech development:
-algorithmic trading systems, market-data tooling, and cross-asset valuation
-frameworks built from scratch.
-
-<img src="./hd-education.svg" width="620" alt="education"/>
-
-**EMLYON Business School**<br>
-Master in Finance — <samp>2026 – present</samp>
-
-**LUISS Guido Carli University** — Rome, Italy<br>
-BSc in Economics and Management — <samp>2023 – 2026</samp><br>
-Coursework: Corporate Finance, Financial Markets, Economics. Focus on
-valuation, financial analysis, and market dynamics.
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
